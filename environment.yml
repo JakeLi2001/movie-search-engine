@@ -1,0 +1,13 @@
+name: movie-search-engine
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - nltk
+  - numpy
+  - pandas
+  - python
+  - scikit-learn
+  - ipykernel
+  - kaggle
+prefix: /home/jakeli/miniconda3/envs/movie-search-engine
