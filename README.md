@@ -1,4 +1,4 @@
-# Movie Similarity Analysis
+# Movie Search Engine
 
 **Team Members**: Daniel Guzman, Gozde Karamanoglu, Harvey Zhang, Jake Li, Jeffrey Lai, Kevin Camacho
 
