@@ -17,7 +17,7 @@ This dataset includes the metadata for all 45,000 movies listed in the Full Movi
 
 ## :dart: Results
 
-See [report](Final%20Project%20Report.pdf).
+![Example](result_example.png)
 
 ## :hammer_and_wrench: Tech Stack
 
